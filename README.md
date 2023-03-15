@@ -1,1 +1,1 @@
-command expanding and special characters
+shell commands
